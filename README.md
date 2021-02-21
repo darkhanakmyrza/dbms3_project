@@ -17,4 +17,4 @@
 * HTML, CSS, JavaScript
 
 ### UML Diagram
-![image info](./diagram.jpeg)
+![image info](./images/diagram.jpeg)
