@@ -15,3 +15,6 @@
 * Python (Flask)
 * Sqlite3
 * HTML, CSS, JavaScript
+
+### UML Diagram
+![image info](./diagram.jpeg)
