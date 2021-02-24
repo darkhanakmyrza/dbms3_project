@@ -22,7 +22,7 @@
 ### Use Case Diagram:
 ![image info](./images/UseCase.png)
 
-### FAQ
+### FAQ:
 1. What is the general purpose of the project?
 2. How does the user register or log in?
 3. How can users see the status of lost items?
