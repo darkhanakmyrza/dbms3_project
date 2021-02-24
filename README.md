@@ -16,8 +16,8 @@
 * Sqlite3
 * HTML, CSS, JavaScript
 
-### UML Diagram
+### UML Diagram:
 ![image info](./images/diagram.jpeg)
 
-### Use Case Diagram
+### Use Case Diagram:
 ![image info](./images/UseCase.png)
