@@ -18,3 +18,6 @@
 
 ### UML Diagram
 ![image info](./images/diagram.jpeg)
+
+### Use Case Diagram
+![image info](./images/Use Case Diagram.png)
