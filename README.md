@@ -16,11 +16,11 @@
 * Sqlite3
 * HTML, CSS, JavaScript
 
-### UML Diagram:
+### ER Diagram:
 ![image info](./images/diagram.jpeg)
 
 ### Use Case Diagram:
-![image info](./images/UseCase.png)
+![image info](./images/WEST-UseCase-UML.png)
 
 ### FAQ:
 1. What is the general purpose of the project?
