@@ -38,3 +38,22 @@
 13. Can users see lost items, if they are not registered?
 14. Can users delete their publications about lost items?
 15. How can users reply to lost items?
+
+### Questions of SQL queries:
+1. How can users sign up to our website?
+2. How can users sign in to our website?
+3. How can users fill their profile information?
+4. How can users post his lost items?
+5. How can users add images to their posts?
+6. How can users comment on other posts?
+7. How can users see lost items?
+8. How can users see founded items?
+9. How can users delete their publication?
+10. How can users update their publication?
+11. How can users delete comments of their publication?
+12. How can admins add new faculty?
+13. How can admins add new speciality?
+14. How can admins delete user's publications?
+15. How can admins  delete comments of users from publications?
+
+
