@@ -17,10 +17,10 @@
 * HTML, CSS, JavaScript
 
 ### ER Diagram:
-![image info](./images/LostAndFound-ER.png)
+![image info](./images/LostandFound-ER.png)
 
 ### Use Case Diagram:
-![image info](./images/LostAndFound-UseCase-UML.png)
+![image info](./images/LostandFound-UseCase-UML.png)
 
 ### FAQ:
 1. What is the general purpose of the project?
